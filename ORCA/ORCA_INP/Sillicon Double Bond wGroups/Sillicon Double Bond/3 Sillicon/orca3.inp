@@ -1,0 +1,24 @@
+! TPSSh D3BJ TightSCF OPT FREQ cc-pVQZ
+!  Largeprint Printbasis PrintMOs
+
+%pal
+nprocs 24
+end
+
+%scf
+maxiter 500
+end
+
+%geom
+maxiter 500
+end
+
+* xyz 0 1
+  Si       -3.46818        1.12797       -0.13815
+  Si       -1.68940        0.52968       -1.03987
+   H       -3.45845        0.93014        1.33277
+   H       -4.63772        0.49846       -0.80187
+  Si       -0.08320        0.95021        0.21207
+   H        1.06618        0.04543       -0.04472
+   H       -0.44843        1.08230        1.64451
+*
