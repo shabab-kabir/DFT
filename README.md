@@ -23,6 +23,10 @@ This subsection presents the results of the DFT calculations for disilene nanoma
 ![Disilene Nanomaterial Calculations - Part 1](https://github.com/shabab-kabir/Density_Functional_Theory_Research/assets/126777449/98325e7f-468c-4646-bb83-31bf5fc86166)
 ![Disilene Nanomaterial Calculations - Part 2](https://github.com/shabab-kabir/Density_Functional_Theory_Research/assets/126777449/52588968-ac67-4f42-93a3-45e4a233fa44)
 
+### Norbornadiene Metal Complexes Calculations
+This subsection showcases the results from the DFT calculations for Norbornadiene Metal Complexes. The provided images below offer a detailed view of the data and outcomes of this particular study. For more in-depth information, please refer to the [Norbornadiene Metal Complexes Study Presentation](https://docs.google.com/presentation/d/1JOdY_sBt0gmeYdPR4f0XxFSMsUzAgGpQtfIc2TSs1vM/edit?usp=sharing).
+![Norbornadiene Metal Complexes Calculations - Part 1](https://github.com/shabab-kabir/Density_Functional_Theory_Research/assets/126777449/a25bd8e9-3c37-445e-98b5-4751b3c3d33f)
+![Norbornadiene Metal Complexes Calculations - Part 2](https://github.com/shabab-kabir/Density_Functional_Theory_Research/assets/126777449/052cab0d-55c8-48b3-bae9-1046c2bbe699)
 
 ## Installation and Usage
 
