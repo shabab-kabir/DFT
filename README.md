@@ -18,6 +18,13 @@ This repository includes:
 - **Data Sets**: Outputs and datasets generated from these calculations.
 - **Documentation**: Detailed explanations of each calculation, including theoretical background and practical applications.
 
+### Disilene Nanomaterial Calculations
+This subsection presents the results of the DFT calculations for disilene nanomaterials. These images illustrate the detailed data and findings from the project.
+
+![Disilene Nanomaterial Calculations - Part 1](https://github.com/shabab-kabir/Density_Functional_Theory_Research/assets/126777449/98325e7f-468c-4646-bb83-31bf5fc86166)
+![Disilene Nanomaterial Calculations - Part 2](https://github.com/shabab-kabir/Density_Functional_Theory_Research/assets/126777449/52588968-ac67-4f42-93a3-45e4a233fa44)
+
+
 ## Installation and Usage
 
 To use this repository:
