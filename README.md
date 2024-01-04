@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Welcome to the DFT (Density Functional Theory) Calculations Repository. This repository houses a comprehensive collection of computational chemistry calculations performed using DFT. DFT is a crucial quantum mechanical modeling method in physics and chemistry, used to investigate the electronic structure of many-body systems.
+Welcome to a DFT (Density Functional Theory) Calculations Repository. This repository houses a comprehensive collection of computational chemistry calculations performed using DFT. DFT is a crucial quantum mechanical modeling method in physics and chemistry, used to investigate the electronic structure of many-body systems.
 
 This repository primarily focuses on two significant projects: 
 1. **Disilene Nanomaterials**: Exploring the properties and behaviors of disilene-based nanomaterials through DFT calculations.
